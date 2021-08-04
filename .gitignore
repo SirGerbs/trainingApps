@@ -1,0 +1,8 @@
+target/
+node_modules/
+.settings
+.vscode
+.classpath
+.project
+package-lock.json
+src/main/resources/static/built/
